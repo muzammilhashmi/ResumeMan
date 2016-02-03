@@ -19,7 +19,7 @@ info:
     homepage: http://example.com/ # not mandatory
     address:
         street: 2-3-574,Amberpet
-        city:Hyderabad
+        city: Hyderabad
         region: Region # not mandatory
         postal_code: 12345 # not mandatory
         country: India # not mandatory
