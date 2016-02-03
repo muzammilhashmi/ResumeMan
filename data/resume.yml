@@ -98,7 +98,7 @@ education: # this section is not mandatory
       grade:  60%  # not mandatory
 
 projects: # this section is not mandatory
-    - name: SchoolOne
+    - name: School One
       desc: |
           SchoolOne is designed to bring parents teachers and the students on a common platform. So that parents can be in touch with their ward’s performance..
       url: https:schoolone.in # not mandatory
