@@ -1,0 +1,13 @@
+---
+name: ResumeMan
+generator: middleman
+
+license: CUSTOM
+license_url: ./LICENSE
+thumbnail: https://cloud.githubusercontent.com/assets/1424573/3847467/134aa236-1e66-11e4-8421-4e8c122118dc.png
+
+author_name: Fabien Piuzzi
+author_url: http://demenzia.net/
+
+tags:
+  - Resume
