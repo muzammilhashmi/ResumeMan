@@ -105,8 +105,8 @@ projects: # this section is not mandatory
       dates: # not mandatory
         start: 2014-02-18
         end: 2015-04-05 # not mandatory
-      location: Hyderabad # not mandatory
+      location: # not mandatory
         city: Hyderabad
         region: Hyderabad
-        country:India # not mandatory
+        country: India # not mandatory
 
