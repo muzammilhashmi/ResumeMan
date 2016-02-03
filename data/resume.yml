@@ -11,18 +11,18 @@ headers:
     projects: Projects
 
 info:
-    name: Full Name
+    name: Muzammil Hashmi
     # dob: 1980-01-01 # not mandatory
     shortdesc: Job Title
-    email: example@example.com
+    email: muzammilhashmi786@gmail.com
     phone: (313) - 867-5309 # not mandatory
     homepage: http://example.com/ # not mandatory
     address:
-        street: 123 Fake Street
-        city: City
+        street: 2-3-574,Amberpet
+        city:Hyderabad
         region: Region # not mandatory
         postal_code: 12345 # not mandatory
-        country: Country # not mandatory
+        country: India # not mandatory
     desc: |
         Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
 
@@ -35,9 +35,9 @@ skills:
       desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
 languages:
-    - name: Gibberish
-      level: Native language
-    - name: Manager Speak
+    - name: English 
+      level: Fluent6
+    - name: Hindi
       level: Fluent
 
 alphabetsoup:
@@ -60,11 +60,11 @@ links:
       url: https://example.com/
 
 jobs:
-    - title: Senior Interface Designer
-      company: Famous Company
-      url: http://example.com/
+    - title: Web Developer
+      company: Cosmicvent Software Pvt ltd
+      url: http://cosmicvent.com/
       dates:
-          start: 2007-01-02
+          start: 2015-07-01
           end: Present
       desc: |
           Intrinsicly enable optimal core competencies through corporate relationships.
@@ -73,40 +73,40 @@ jobs:
 
           Conveniently initiate virtual paradigms and top-line convergence.
 
-    - title: Junior Interface Designer
-      company: Technocorp
-      dates:
-          start: 2005-01-01
-          end: 2007-01-01
-      desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+   # - title: Junior Interface Designer
+     # company: Technocorp
+      #dates:
+          #  start: 2005-01-01
+           # end: 2007-01-01
+       # desc: |
+         #   Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
 
-          Compellingly morph extensive niche markets with mission-critical ideas.
+         #   Compellingly morph extensive niche markets with mission-critical ideas.
 
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
+          #  Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
 
 education: # this section is not mandatory
-    - name: Indiana University
+    - name: Jntuh
       url: http://indiana.edu # not mandatory
-      city: Bloomington
-      region: Indiana
-      country: USA # not mandatory
+      city: Hyderabad
+      region: India
+      country: India # not mandatory
       dates:
-        start: 2001-01-01
+        start: 2010-01-07
         end: 2010-01-01 # not mandatory
-      title: Dual Major, Economics and English
-      grade: 4.0 GPA # not mandatory
+      title: Information Technology
+      grade:  60%  # not mandatory
 
 projects: # this section is not mandatory
-    - name: ResumeMan
+    - name: SchoolOne
       desc: |
-          Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
-      url: https://github.com/reefab/ResumeMan # not mandatory
+          SchoolOne is designed to bring parents teachers and the students on a common platform. So that parents can be in touch with their ward’s performance..
+      url: https:schoolone.in # not mandatory
       dates: # not mandatory
-        start: 2013-02-18
-        end: 2014-04-05 # not mandatory
-      location: # not mandatory
-        city: Florence
-        region: Tuscany
-        country: Italy # not mandatory
+        start: 2014-02-18
+        end: 2015-04-05 # not mandatory
+      location:Hyderabad # not mandatory
+        city: Hyderabad
+        region: Hyderabad
+        country:India # not mandatory
 
